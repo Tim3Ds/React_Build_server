@@ -1,0 +1,16 @@
+{
+  "name": "react-build-server",
+  "version": "1.0.0",
+  "description": "add the server file pm2 start server.js to host your react app",
+  "main": "server.js",
+  "dependencies": {
+    "pushstate-server": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tim3Ds",
+  "license": "MIT"
+}
